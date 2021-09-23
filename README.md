@@ -1,5 +1,9 @@
 #ISIS1225 - Estructura de un proyecto
 
+Estudiante1: Santiago Sinisterra Arias 202022177 s.sinisterra@uniandes.edu.co
+
+Estudiante2: Juan Felipe Serrano 201921654 j.serrano@uniandes.edu.co
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
